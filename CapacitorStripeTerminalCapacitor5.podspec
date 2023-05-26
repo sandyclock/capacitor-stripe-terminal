@@ -1,6 +1,6 @@
 
   Pod::Spec.new do |s|
-    s.name = 'CapacitorStripeTerminal'
+    s.name = 'CapacitorStripeTerminalCapacitor5'
     s.version = '0.0.1'
     s.summary = 'Capacitor plugin for Stripe Terminal (credit card readers).'
     s.license = 'MIT'
