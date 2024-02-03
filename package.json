@@ -1,6 +1,6 @@
 {
   "name": "capacitor-stripe-terminal-capacitor5",
-  "version": "3.1.3",
+  "version": "3.1.4",
   "description": "Capacitor plugin for Stripe Terminal (credit card readers).",
   "main": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
